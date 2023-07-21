@@ -7,6 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clpz299&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=clpz299)](https://git.io/streak-stats)
 
 <!--
