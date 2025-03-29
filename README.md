@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/clpz299?template=classic&isocalendar=1&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clpz299)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
